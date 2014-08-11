@@ -1,4 +1,4 @@
-instagram-popup-login
+Instagram Popup Login
 =====================
 
 Log into Instagram via a Pop-Up window with Javascript.
