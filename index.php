@@ -59,9 +59,9 @@
 		function login() {
 
 			authenticateInstagram(
-				'393fb9891d0844ec93d6f86286be85a0', //instagram client ID
-				'http://radykal.dev/github/instagram-popup-login/instagram_auth.php', //instagram redirect URI
-				login_callback //optional - a callback function
+			    'your_client_id', //instagram client ID
+			    'your_redirect_uri', //instagram redirect URI
+			    login_callback //optional - a callback function
 			);
 
 			return false;
