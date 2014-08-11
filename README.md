@@ -20,3 +20,7 @@ authenticateInstagram(
 	login_callback //optional - a callback function
 );
 ```
+
+## Live Usage
+
+I am using this method in my [Fancy Product Designer plugin](http://fancyproductdesigner.com/jquery-plugin/) to load users feed and recent images.
