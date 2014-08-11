@@ -1,7 +1,7 @@
 Instagram Popup Login
 =====================
 
-Log into Instagram via a Pop-Up window with Javascript. After authentication you receive the acccess token, that can be used to make endpoint API calls.
+Log into Instagram via a Pop-Up window with Javascript. After authentication you receive the acccess token, that can be used to make API endpoint calls.
 
 You can view a demo [here](http://github.radykal.de/instagram-popup-login/).
 
